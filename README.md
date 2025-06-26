@@ -107,7 +107,10 @@
 ## terminal alias
 ```bash
 alias gap="git add -p"
-alias gcs="git checkout staging"
-alias gcs2="git checkout staging2"
 alias gs="git status"
+alias nd="npm run dev"
+alias v="nvim ."
+alias vim="nvim"
+alias cl="clear"
+alias lg="lazygit"
 ```
